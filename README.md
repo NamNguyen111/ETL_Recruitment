@@ -1,5 +1,10 @@
-For now im learning to use Linux and DSA so this project is pause for a time.
-This is a basic ETL project. I use Scrapy, Playwright and proxies to scrape 2 websites: Vietnamworks and Careerlink.
-I use Pyspark to clean and normalize the data(Over 1000 records, i want to crawl more but because of limit number of proxies).
-I store data in Parquet file to use later.
-:)
+ETL Pipeline for Job Recruitment Posting
+Description:
+Deploy a pipeline to extract, process and store data from 2 websites Vietnamworks and CareerLink
+Requirements:
+- Python 3.10.11 installed
+- Scrapy and Scrapy Playwright newest version(use pip install scrapy and pip install scrapy-playwright)
+- PySpark 3.5.3 install
+- I store data as parquet files so no DBMS required
+For now im learning to use Linux and DSA so this project is pause for a time, i will update Docker to this project and move to Linux later.
+
