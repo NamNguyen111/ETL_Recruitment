@@ -1,7 +1,7 @@
 import scrapy
 from scrapy_playwright.page import PageMethod
 from ..items import RecruitmentCrawlItem
-
+# This one is not work rn because all my Proxies got banned from the site (29/10/2024)
 
 class TopcvSpider(scrapy.Spider):
     name = "topcv"

@@ -1,0 +1,2 @@
+You will need Scrapy, Scrapy-Playwright to run the crawlers, PySpark installed for the clean and normalize part, and store the data also.
+Feel free to email me: "nguyenducnam1572003@gmail.com" for any information
