@@ -1,5 +1,15 @@
-ETL Pipeline for Job Recruitment Posting
-Description:
+<h1>ETL Pipeline for Job Recruitment Posting (Vietnamese recruitment post crawlers)</h1>
+<h3>What this project can do:</h3>
+- Extract data from 2 websites vietnamworks.com and careerlink.vn as json files <br>
+- Clean and normalize data using PySpark dataframe <br>
+- The data can be use to insert to databases or store as data files as your choice <br>
+From this <br>
+
+![image](https://github.com/user-attachments/assets/da57072d-479f-4f5d-aafe-7ad5297542f5)
+To this <br>
+
+
+<h3>Description:</h3>
 Deploy a pipeline to extract, process and store data from 2 websites Vietnamworks and CareerLink
 Requirements:
 - Python 3.10.11 installed
